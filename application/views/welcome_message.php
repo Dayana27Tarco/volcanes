@@ -26,7 +26,7 @@
           </div>
         </div>
         <div class="item">
-          <img src="https://www.elcomercio.com/wp-content/uploads/2022/11/cotopaxi1-2-700x417.jpg" width="100%" alt="...">
+          <img src="https://www.elcomercio.com/wp-content/uploads/2022/11/cotopaxi1-2-700x417.jpg" width="100%" alt="nuevo alt xddd">
           <div class="carousel-caption">
             ...
           </div>
