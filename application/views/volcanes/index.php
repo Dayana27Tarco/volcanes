@@ -4,7 +4,7 @@
 <div class="text-center" style="margin: 0 0 20px 0;">
   <button type="button" class="btn btn-success" data-toggle="modal" data-target="#modalNuevoVolcan">
     <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
-    Agregar nuevo volcán
+    Agregar un nuevo volcán
   </button>
 </div>
 
